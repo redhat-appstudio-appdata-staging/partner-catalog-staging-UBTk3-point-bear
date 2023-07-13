@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/beaumorley-tenant/partner-catalog-staging/partner-catalog-staging@sha256:a8f09a66cfd3e283eab0b27ad158ec2b222971442f1c82a4afc2c475c5d42998
+      - image: quay.io/redhat-user-workloads-stage/beaumorley-tenant/partner-catalog-staging/partner-catalog-staging@sha256:a09e988a97fca65f5e3aaffaf0486dc911ac645b36fe64bf34af9b2ac195ff16
         name: my-java-springboot
         resources: {}
 status: {}
